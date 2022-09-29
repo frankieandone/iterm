@@ -1,7 +1,7 @@
 {
 "Profiles": [
 {
-  "Thin Strokes" : 4,
+  "Custom Directory" : "No",
   "Working Directory" : "\/Users\/frankie.and.one",
   "Prompt Before Closing 2" : false,
   "Selected Text Color" : {
@@ -17,17 +17,21 @@
   },
   "Use Italic Font" : true,
   "Foreground Color" : {
-    "Green Component" : 0.88235294117647056,
-    "Blue Component" : 0.81176470588235294,
-    "Red Component" : 0.90196078431372551
+    "Red Component" : 0.92941176470588238,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.92941176470588238,
+    "Alpha Component" : 1,
+    "Green Component" : 0.92941176470588238
   },
   "Right Option Key Sends" : 2,
   "Show Status Bar" : true,
   "Character Encoding" : 4,
   "Selection Color" : {
-    "Green Component" : 0.20000000000000001,
-    "Blue Component" : 0.25098039215686274,
-    "Red Component" : 0.14509803921568629
+    "Red Component" : 0.20784313725490197,
+    "Color Space" : "sRGB",
+    "Blue Component" : 0.29411764705882354,
+    "Alpha Component" : 1,
+    "Green Component" : 0.23137254901960785
   },
   "Blend" : 0.050000000000000003,
   "Mouse Reporting" : true,
@@ -136,7 +140,7 @@
     "Alpha Component" : 0.078431372549019593,
     "Green Component" : 0.92681378126144409
   },
-  "Right Option Key Changeable" : false,
+  "Right Option Key Changeable" : true,
   "BM Growl" : false,
   "Open Password Manager Automatically" : true,
   "Icon" : 0,
@@ -148,12 +152,12 @@
     "Green Component" : 0.35915297269821167
   },
   "Shortcut" : "T",
-  "Use Non-ASCII Font" : true,
   "Ansi 3 Color" : {
     "Green Component" : 0.77254901960784317,
     "Blue Component" : 0.27843137254901962,
     "Red Component" : 0.90588235294117647
   },
+  "Use Non-ASCII Font" : true,
   "Background Image Location" : "",
   "Bold Color" : {
     "Green Component" : 0.88235294117647056,
@@ -319,8 +323,8 @@
     "Red Component" : 1
   },
   "Name" : "Tokyo Night",
-  "Guid" : "DED0F780-A4E9-46B7-813B-59CEEA62CB14",
   "Blinking Cursor" : true,
+  "Guid" : "DED0F780-A4E9-46B7-813B-59CEEA62CB14",
   "Ansi 8 Color" : {
     "Green Component" : 0.19607843137254902,
     "Blue Component" : 0.19607843137254902,
@@ -348,7 +352,7 @@
     "Blue Component" : 0,
     "Red Component" : 0
   },
-  "Left Option Key Changeable" : false,
+  "Left Option Key Changeable" : true,
   "Normal Font" : "JetBrainsMono-Regular 12",
   "Vertical Spacing" : 1.2,
   "Blur" : true,
@@ -380,11 +384,11 @@
   "Transparency" : 0,
   "Initial Text" : "",
   "Background Color" : {
-    "Red Component" : 0.12156862745098039,
+    "Red Component" : 0.11764705882352941,
     "Color Space" : "sRGB",
-    "Blue Component" : 0.20784313725490197,
+    "Blue Component" : 0.1803921568627451,
     "Alpha Component" : 1,
-    "Green Component" : 0.13725490196078433
+    "Green Component" : 0.11764705882352941
   },
   "Screen" : -2,
   "Initial Use Transparency" : true,
@@ -397,17 +401,18 @@
     "Blue Component" : 0.66666666666666663,
     "Red Component" : 1
   },
-  "Columns" : 142,
+  "Columns" : 140,
   "Use Tab Color" : false,
   "Unicode Normalization" : 0,
   "Visual Bell" : false,
-  "Custom Directory" : "No",
+  "Show Timestamps" : 0,
+  "ASCII Ligatures" : false,
+  "Thin Strokes" : 4,
   "Ansi 5 Color" : {
     "Green Component" : 0.44313725490196076,
     "Blue Component" : 0.47058823529411764,
     "Red Component" : 0.94117647058823528
-  },
-  "ASCII Ligatures" : false
+  }
 }
 ]
 }
