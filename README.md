@@ -1,1 +1,3 @@
-# iterm2
+# iterm
+
+preferences, profiles, palettes etc for iterm2
