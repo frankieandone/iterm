@@ -314,7 +314,7 @@
   },
   "Hide After Opening" : false,
   "Background Image Mode" : 1,
-  "Unlimited Scrollback" : false,
+  "Unlimited Scrollback" : true,
   "AWDS Window Directory" : "",
   "Normal Font" : "JetBrainsMonoNF-Bold 13",
   "Ansi 15 Color" : {
